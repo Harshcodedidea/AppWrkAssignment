@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppWrkAssignment</string>
+    <string name="def_alert">Alert</string>
+    <string name="def_confirm">Confirm</string>
+    <string name="def_cancel">Cancel</string>
+    <string name="def_completed">Completed</string>
+    <string name="def_pending">Pending</string>
+    <string name="def_home_screen">Home Screen</string>
+    <string name="def_status">"Status: "</string>
+    <string name="def_mark_as">"Mark as %s"</string>
+</resources>
